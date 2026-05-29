@@ -1,0 +1,15 @@
+{
+  "name": "websocket-relay",
+  "version": "1.0.0",
+  "description": "WebSocket relay server for Taktinka",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2"
+  },
+  "engines": {
+    "node": ">=20.0.0 <23.0.0"
+  }
+}
